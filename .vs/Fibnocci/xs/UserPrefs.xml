@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{118EDCB4-2F2D-4768-B67F-9E3918D4B32B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fibnocci PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fibnocci/Program.cs">
+    <Files>
+      <File FileName="Fibnocci/Program.cs" Line="32" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fibnocci" expanded="True">
+            <Node name="Fibnocci" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

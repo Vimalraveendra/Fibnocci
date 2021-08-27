@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibnocci", "Fibnocci\Fibnocci.csproj", "{118EDCB4-2F2D-4768-B67F-9E3918D4B32B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{118EDCB4-2F2D-4768-B67F-9E3918D4B32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118EDCB4-2F2D-4768-B67F-9E3918D4B32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118EDCB4-2F2D-4768-B67F-9E3918D4B32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118EDCB4-2F2D-4768-B67F-9E3918D4B32B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A719361F-06C9-4E87-A586-3C77D618F8EC}
+	EndGlobalSection
+EndGlobal
